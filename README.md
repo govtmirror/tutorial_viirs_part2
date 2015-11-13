@@ -18,3 +18,5 @@ Using various pattern detection methods, train and evaluate models against hundr
 - **December 2015**:
   - Reveal first findings, discussions on production possibilities
 
+####> code
+- See the scripts folder
