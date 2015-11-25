@@ -1,4 +1,4 @@
-## [Commerce Data Usability Project](http://commercedataservice.github.io/CommerceUsabilityProject/)
+## [Commerce Usability Project](http://commercedataservice.github.io/CommerceUsabilityProject/)
 ####VIIRS Nighttime Imagery, Part 2: Finding Patterns in the Dark
 
 ####> intro
